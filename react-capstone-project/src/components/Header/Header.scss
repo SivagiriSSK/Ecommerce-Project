@@ -1,0 +1,45 @@
+.header-background {
+  background-color: #fff8e8;
+}
+.search-hover {
+  border: none;
+  outline: none;
+  background-size: 10px;
+  background-position: 13px;
+  width: 15px;
+  height: 15px;
+  padding: 15px;
+  background-color: transparent;
+  transition: all 0.5s;
+}
+.search-hover:hover {
+  visibility: visible;
+  width: 300px;
+  padding-left: 25px;
+}
+.shopping-icon {
+  height: 42px;
+  width: 70px;
+}
+.header-margin {
+  margin-bottom: 53px;
+}
+
+/* Base */
+.shop-name span {
+  color: #554a4a;
+  font-size: 24px;
+  font-weight: 700;
+  transition: 0.5s ease-out;
+}
+.shop-name:hover span:nth-child(1) {
+  margin-right: 5px;
+}
+.shop-name:hover span:nth-child(2) {
+  margin-left: 30px;
+}
+.shop-name:hover span {
+  color: #fff;
+  font-weight: bolder;
+  text-shadow: 0 0 5px #7a5f5f, 0 0 10px #7a5f5f, 0 0 20px #7a5f5f;
+}

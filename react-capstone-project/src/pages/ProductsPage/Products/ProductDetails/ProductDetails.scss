@@ -1,0 +1,101 @@
+.margin {
+  margin-top: 80px;
+}
+.user-selected-product {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.product-picture {
+  width: 21rem;
+}
+.product-flex-container {
+  display: flex;
+}
+.product-flex {
+  display: flex;
+  gap: 50px;
+}
+.input-form {
+  outline: none;
+  margin-left: 30px;
+  width: 350px;
+  height: 30px;
+  border: 2px solid black;
+}
+.remove-border {
+  outline: none;
+  border: none;
+}
+
+.review-input {
+  border: 2px solid black;
+  width: 350px;
+  height: 90px;
+  margin-left: 76px;
+  margin-top: -15px;
+}
+.email-input {
+  margin-left: 32.5px;
+}
+#phoneInput {
+  margin-left: 27px;
+}
+.product-information {
+  background-color: rgb(255, 252, 248);
+}
+.product-selling-price {
+  font-size: 32px;
+  font-weight: 700px;
+}
+.product-discount-price {
+  font-weight: 400;
+}
+.product-max-retail-price {
+  font-weight: 50;
+}
+.product-desc p {
+  font-size: 32px;
+  font-weight: 700px;
+}
+.product-desc h4 {
+  font-size: 24px;
+  font-weight: 700px;
+}
+.product-tax {
+  font-size: 16px;
+  font-weight: 350px;
+  color: #3eb980;
+}
+.product-reviews-info {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+.rating-input {
+  margin-left: 22.5px;
+}
+.user-feedback {
+  height: 90px;
+  background-color: rgba(245, 235, 235, 0.669);
+}
+.write-review-btn {
+  margin-left: 95px;
+}
+.user-flex {
+  display: flex;
+}
+#userName {
+  font-size: 24px;
+  font-weight: 550;
+  margin-top: 12px;
+}
+.user-image {
+  height: 100px;
+  width: 100px;
+}
+.user-feedback:hover {
+  background-color: rgba(245, 235, 235, 0.043);
+}
+#userReview {
+  font-size: 22px;
+}

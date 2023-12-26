@@ -1,0 +1,545 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Men Pure Formal cotton Shirt",
+      "brand": "Louis Philippe",
+      "description": "Men Solid Classic Fit Formal Pure Cotton Shirt",
+      "imageUrl": "./assets/images/shirts/green-men-shirt.webp",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "maxRetailPrice": 1499,
+      "category": "Men",
+      "discountApplicable": 8,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 1,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Rahul",
+          "phone": "768888867",
+          "email": "rahul123@gmail.com",
+          "rating": 4,
+          "review": "This product is awasome"
+        },
+        {
+          "id": 2,
+          "name": "Kumar",
+          "phone": "1234567890",
+          "email": "kumar@gmail.com",
+          "rating": 5,
+          "review": "very good product!!"
+        },
+        {
+          "id": 3,
+          "name": "siva",
+          "phone": "1234567890",
+          "email": "2163841@cognizant.com",
+          "rating": 5,
+          "review": "kkk"
+        },
+        {
+          "id": 4,
+          "name": "pp",
+          "phone": "8888888888888",
+          "email": "2163841@cognizant.com",
+          "rating": 3,
+          "review": "kk"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Men Formal Shirt",
+      "brand": "Peter England",
+      "description": "Slim Fit Pure Cotton Striped Formal Shirt",
+      "imageUrl": "./assets/images/shirts/collar-men-shirt.webp",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "maxRetailPrice": 1799,
+      "category": "Men",
+      "discountApplicable": 12,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 0,
+          "name": "Rahul ",
+          "phone": "1234567890",
+          "email": "Ra123@gmail.com",
+          "rating": 5,
+          "review": "dam!!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Men Formal Shirt",
+      "brand": "Allen Solly",
+      "description": "Men Geometric Classic Fit Formal Pure Cotton Shirt",
+      "imageUrl": "./assets/images/shirts/pink-shirt.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "maxRetailPrice": 2299,
+      "category": "Men",
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 0,
+          "name": "Dhilip",
+          "phone": "1234567890",
+          "email": "dh@gmail.com",
+          "rating": 2,
+          "review": "un product te nalla la edutu po"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Men Formal Shirt",
+      "brand": "Park Avenue",
+      "description": "Slim Fit Houndstooth Pure Cotton Formal Shirt",
+      "imageUrl": "./assets/images/shirts/slim-fit-men-shirt.webp ",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "maxRetailPrice": 2499,
+      "category": "Men",
+      "discountApplicable": 15,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 0,
+          "name": "ee",
+          "phone": "1234567890",
+          "email": "2163841@cognizant.com",
+          "rating": 3,
+          "review": "hh"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Men Formal Shirt",
+      "brand": "Peter England",
+      "description": "Slim Fit Pure Cotton Striped Formal Shirt",
+      "imageUrl": "./assets/images/shirts/collar-men-shirt.webp",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "maxRetailPrice": 2699,
+      "category": "Men",
+      "discountApplicable": 15,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 5,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 6,
+      "name": "Men Pure Formal cotton Shirt",
+      "brand": "Louis Philippe",
+      "description": "Men Solid Classic Fit Formal Pure Cotton Shirt",
+      "imageUrl": "./assets/images/shirts/green-men-shirt.webp",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "maxRetailPrice": 2899,
+      "category": "Men",
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 6,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 0,
+          "name": "John",
+          "phone": "1234567890",
+          "email": "jp@gmail.com",
+          "rating": 5,
+          "review": "good!!"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kids Solid Cotton Empire Top",
+      "brand": "Sangria",
+      "description": "Kids Solid Cotton Empire Top With Embroidered",
+      "imageUrl": "./assets/images/kids-dress-images/girls-mint-frocks.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "maxRetailPrice": 3199,
+      "category": "Kids",
+      "discountApplicable": 16,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 17,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Swetha",
+          "phone": "1234567890",
+          "email": "123@gmail.com",
+          "rating": 5,
+          "review": "product is good!!"
+        },
+        {
+          "id": 2,
+          "name": "siva",
+          "phone": "8888888888888",
+          "email": "123@gmail.com",
+          "rating": 3,
+          "review": "good!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Men Pure Formal cotton Shirt",
+      "brand": "Louis Philippe",
+      "description": "Men Solid Classic Fit Formal Pure Cotton Shirt",
+      "imageUrl": "./assets/images/shirts/green-men-shirt.webp",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "imgAltText": "Men Formal Shirt",
+      "maxRetailPrice": 3799,
+      "category": "Men",
+      "discountApplicable": 17,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 8,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 9,
+      "name": "Inavish Women Rayon Embroidery top",
+      "brand": "Roadster",
+      "description": "Inavish Womans Rayon Embroidery top",
+      "imageUrl": "./assets/images/women-dress-images/zigzag-top.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/125444934/joyj8_512.webp",
+      "imgAltText": "Inavish Women Rayon Embroidery top",
+      "maxRetailPrice": 3999,
+      "category": "Women",
+      "discountApplicable": 16,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 9,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 10,
+      "name": "Trendy Fashion Women Top",
+      "brand": "Anouk Trend",
+      "description": "Mandarin Empire Pure Cotton Longline Top",
+      "imageUrl": "./assets/images/women-dress-images/rayon-top.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/125444934/joyj8_512.webp",
+      "maxRetailPrice": 4599,
+      "category": "Women",
+      "discountApplicable": 17,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 10,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Seetha",
+          "phone": "1234567890",
+          "email": "2163841@cognizant.com",
+          "rating": 3,
+          "review": "This product is awasome"
+        },
+        {
+          "id": 2,
+          "name": "Ramya",
+          "phone": "1234567890",
+          "email": "123@gmail.com",
+          "rating": 5,
+          "review": "This Product is good!!"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Trendy Fashion Women Top",
+      "brand": "Anouk Trend",
+      "description": "Trendy Floral Embroidered Georgette Longline Top",
+      "imageUrl": "./assets/images/women-dress-images/partywear-top.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/125444934/joyj8_512.webp",
+      "maxRetailPrice": 1299,
+      "category": "Women",
+      "discountApplicable": 8,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 11,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "siva",
+          "phone": "8888888888888",
+          "email": "123@gmail.com",
+          "rating": 4,
+          "review": "HHHH"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Trendy Fashion Women Top",
+      "brand": "Anouk Trend",
+      "description": "Trendy Floral Embroidered Georgette Longline Top",
+      "imageUrl": "./assets/images/women-dress-images/partywear-top.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/125444934/joyj8_512.webp",
+      "maxRetailPrice": 1799,
+      "category": "Women",
+      "discountApplicable": 11,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 12,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 13,
+      "name": "Inavish Women Rayon Embroidery top",
+      "brand": "Roadster",
+      "description": "Inavish Womans Rayon Embroidery top",
+      "imageUrl": "./assets/images/women-dress-images/zigzag-top.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/125444934/joyj8_512.webp",
+      "maxRetailPrice": 2399,
+      "category": "Women",
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 13,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Arpitha",
+          "phone": "1234567890",
+          "email": "123@gmail.com",
+          "rating": 2,
+          "review": "need some improvement"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Kids Cotton Blend Frocks",
+      "brand": "Roadster",
+      "description": "Kids Pure Cotton Rayon Blend Frocks & Dresses",
+      "imageUrl": "./assets/images/kids-dress-images/frocks-dress.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "maxRetailPrice": 2549,
+      "category": "Kids",
+      "discountApplicable": 15,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 14,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ramya",
+          "phone": "1234567890",
+          "email": "123@gmail.com",
+          "rating": 5,
+          "review": "product is good!!\n"
+        },
+        {
+          "id": 2,
+          "name": "Siva",
+          "phone": "1234567890",
+          "email": "123@gmail.com",
+          "rating": 3,
+          "review": "it's okay!!"
+        },
+        {
+          "id": 3,
+          "name": "siva",
+          "phone": "1234567890",
+          "email": "123@gmail.com",
+          "rating": 4,
+          "review": "uuu"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Kids Solid Cotton Empire Top",
+      "brand": "Sangria",
+      "description": "Kids Solid Cotton Empire Top With Embroidered",
+      "imageUrl": "./assets/images/kids-dress-images/girls-mint-frocks.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "imgAltText": "Kids dress image",
+      "maxRetailPrice": 2799,
+      "category": "Kids",
+      "discountApplicable": 15,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 15,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 16,
+      "name": "Print Mandarin Longline Top",
+      "brand": "Sangria",
+      "description": "Trendy Bandhani Print Mandarin Longline Top",
+      "imageUrl": "./assets/images/kids-dress-images/trendy-top.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "imgAltText": "Kids dress image",
+      "maxRetailPrice": 2999,
+      "category": "Kids",
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 16,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 17,
+      "name": "Kids Solid Cotton Empire Top",
+      "brand": "Sangria",
+      "description": "Kids Solid Cotton Empire Top With Embroidered",
+      "imageUrl": "./assets/images/kids-dress-images/girls-mint-frocks.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "imgAltText": "Kids dress image",
+      "maxRetailPrice": 3199,
+      "category": "Kids",
+      "discountApplicable": 16,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 17,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 10001,
+          "name": "Vijay",
+          "phone": "7760066998",
+          "comment": "amazing!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Kids Cotton Blend Frocks",
+      "brand": "Roadster",
+      "description": "Kids Pure Cotton Rayon Blend Frocks & Dresses",
+      "imageUrl": "./assets/images/kids-dress-images/frocks-dress.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "imgAltText": "Kids dress image",
+      "maxRetailPrice": 3699,
+      "category": "Kids",
+      "discountApplicable": 18,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 18,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 10001,
+          "name": "Vijay",
+          "phone": "7760066998",
+          "comment": "amazing!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 1000,
+      "name": "Kids Solid Cotton Empire Top",
+      "brand": "Sangria",
+      "description": "Kids Solid Cotton Empire Top With Embroidered",
+      "imageUrl": "./assets/images/kids-dress-images/girls-mint-frocks.jpg",
+      "thumbnailUrl": "https://images.meesho.com/images/products/101639933/rpmxi_400.webp",
+      "imgAltText": "Kids dress image",
+      "maxRetailPrice": 3199,
+      "category": "Kids",
+      "discountApplicable": 16,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 17,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 10001,
+          "name": "Vijay",
+          "phone": "7760066998",
+          "comment": "amazing!",
+          "rating": 5
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 101,
+      "name": "Men"
+    },
+    {
+      "id": 102,
+      "name": "Women"
+    },
+    {
+      "id": 103,
+      "name": "Kids"
+    }
+  ],
+  "contactData": {
+    "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+    "phone": [
+      "(91) 987 654 3210",
+      "(91) 987 654 3211"
+    ],
+    "email": "contact@sparkclothing.com"
+  },
+  "getInTouchData": [
+    {
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "message": "Awesome website",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 3
+    },
+    {
+      "name": "Sivagiri",
+      "email": "2163841@cognizant.com",
+      "message": "good!!!",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 6
+    }
+  ]
+}

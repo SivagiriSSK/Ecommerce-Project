@@ -1,0 +1,62 @@
+.best-selling-product {
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.product-image {
+  width: 18rem;
+  height: 340px;
+}
+.card-title {
+  color: #372c3f;
+  font-size: 24px;
+  font-weight: 500;
+}
+.card-text {
+  color: #69606a;
+  font-size: 16px;
+  font-weight: 350;
+}
+.flex-container {
+  display: flex;
+}
+.product-price {
+  color: #372c3f;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+#productDiscount {
+  color: #69606a;
+  font-size: 16px;
+  font-weight: 100;
+}
+.discount-percentage {
+  color: #ffb882;
+  font-size: 16px;
+  font-weight: 100;
+}
+.order-info {
+  display: flex;
+  justify-content: space-between;
+}
+.margin {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.shipping-info-image {
+  width: 125px;
+  height: 85px;
+}
+.shopping-info {
+  color: #372c3f;
+  font-size: 18px;
+  font-weight: 600;
+}
+.shopping-description {
+  color: #69606a;
+  font-size: 14px;
+  font-weight: 300;
+}
+.text-white {
+  text-decoration: none;
+}
