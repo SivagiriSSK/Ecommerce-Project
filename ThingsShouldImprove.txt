@@ -1,7 +1,0 @@
-// functionality Wise
-1.Remove save text in contact
-2.validation is not done
-3.review form save text should develop
-4.code comments need to write 
-5.every file we need to test
-6.some validation work pending in contact us
