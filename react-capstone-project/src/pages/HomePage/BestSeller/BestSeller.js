@@ -6,7 +6,7 @@ const BestSeller = () => {
   const [bestSellingProducts, setBestSellingProducts] = useState([]);
   useEffect(() => {
     fetch(
-      'http://localhost:5000/products?bestSellerRanking=1&bestSellerRanking=2&bestSellerRanking=3&bestSellerRanking=4'
+      'http://localhost:5001/products?bestSellerRanking=1&bestSellerRanking=2&bestSellerRanking=3&bestSellerRanking=4'
     )
       .then((res) => {
         return res.json();

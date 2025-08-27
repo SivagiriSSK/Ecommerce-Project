@@ -15,7 +15,7 @@ function Header() {
               alt='shopping-logo'
             />
             <span className='shop-name'>
-              <span className='ms-1'>Siva Clothing Shop</span>
+              <span className='ms-1'>Classic Zudio</span>
             </span>
           </a>
 

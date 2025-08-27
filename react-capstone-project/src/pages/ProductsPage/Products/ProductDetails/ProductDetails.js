@@ -35,7 +35,7 @@ const ProductDetails = () => {
   console.log(product);
 
   const getProducts = async () => {
-    fetchApi(`http://localhost:5000/products?id=${id}`, 'GET')
+    fetchApi(`http://localhost:5001/products?id=${id}`, 'GET')
       .then((resInJson) => {
         // capturing converted JSON res.
         console.log(resInJson);
@@ -94,7 +94,7 @@ const ProductDetails = () => {
     getReview.current.value = '';
     setProductRating(0);
 
-    fetch(`http://localhost:5000/products/${id}`, {
+    fetch(`http://localhost:5001/products/${id}`, {
       method: 'PUT',
       body: JSON.stringify(newUser),
       headers: {

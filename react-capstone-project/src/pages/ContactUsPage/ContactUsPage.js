@@ -17,7 +17,7 @@ const ContactUsPage = () => {
 
   console.log(contactData);
   useEffect(() => {
-    fetchApi('http://localhost:5000/contactData', 'GET')
+    fetchApi('http://localhost:5001/contactData', 'GET')
       .then((resInJson) => {
         console.log(resInJson);
         if (resInJson.statucode !== 404) {
@@ -47,7 +47,7 @@ const ContactUsPage = () => {
     getName.current.value = '';
     getEmail.current.value = '';
     getMessage.current.value = '';
-    fetch('http://localhost:5000/getInTouchData', {
+    fetch('http://localhost:5001/getInTouchData', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

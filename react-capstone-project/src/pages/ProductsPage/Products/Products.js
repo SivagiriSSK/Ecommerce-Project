@@ -7,7 +7,7 @@ const Products = () => {
   const [productList, setProductList] = useState([]);
   const [buttonText, setButtonText] = useState('Sort by');
   const location = useLocation();
-  let productUrl = 'http://localhost:5000/products';
+  let productUrl = 'http://localhost:5001/products';
   function fetchProduct(productUrl) {
     const url = productUrl;
     fetch(url)
@@ -24,7 +24,7 @@ const Products = () => {
   }
 
   function handleAllProducts() {
-    productUrl = 'http://localhost:5000/products';
+    productUrl = 'http://localhost:5001/products';
     fetchProduct(productUrl);
   }
 
@@ -34,29 +34,29 @@ const Products = () => {
 
   // let PriceDescendingOrder;
   function handleMenProducts() {
-    productUrl = 'http://localhost:5000/products?category=Men';
+    productUrl = 'http://localhost:5001/products?category=Men';
     fetchProduct(productUrl);
   }
 
   function handleWomenProducts() {
-    productUrl = 'http://localhost:5000/products?category=Women';
+    productUrl = 'http://localhost:5001/products?category=Women';
     fetchProduct(productUrl);
   }
   function handlekidsProducts() {
-    productUrl = 'http://localhost:5000/products?category=Kids';
+    productUrl = 'http://localhost:5001/products?category=Kids';
     fetchProduct(productUrl);
   }
   function handlePriceLowToHigh() {
     setButtonText('Price - Low to High');
     console.log(location.search);
     productUrl =
-      'http://localhost:5000/products' + `${location.search}` + '_sort=maxRetailPrice&_order=desc';
+      'http://localhost:5001/products' + `${location.search}` + '_sort=maxRetailPrice&_order=desc';
     fetchProduct(productUrl);
   }
 
   function handlePriceHighToLow() {
     setButtonText('Price - High to Low');
-    productUrl = 'http://localhost:5000/products?_sort=maxRetailPrice&_order=desc';
+    productUrl = 'http://localhost:5001/products?_sort=maxRetailPrice&_order=desc';
     fetchProduct(productUrl);
   }
 
